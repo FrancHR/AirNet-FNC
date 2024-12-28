@@ -1,9 +1,0 @@
-use = True
-timeout = 3
-what = wall
-ratio = 16:9
-cluster = 1052224
-abnormal = True
-secondary = False
-name = airnet
-prefix = fnc
