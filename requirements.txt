@@ -1,0 +1,9 @@
+ffmpeg
+gstplayer
+exteplayer3
+python3-image
+python3-pillow
+python3-requests
+python3-cryptography
+python3-beautifulsoup4
+enigma2-plugin-systemplugins-serviceapp
