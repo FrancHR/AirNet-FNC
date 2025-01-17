@@ -23,3 +23,4 @@ DynamicWall_trademark.txt
 DynamicWall_travel.txt
 DynamicWall_universe.txt
 DynamicWall_winter.txt
+DynamicWall_night.txt
