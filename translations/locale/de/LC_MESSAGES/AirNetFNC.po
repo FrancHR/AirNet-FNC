@@ -1,0 +1,848 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-05 22:59+0100\n"
+"PO-Revision-Date: 2025-01-20 01:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Access over 60,000 broadcasters from the world"
+msgstr "Höre über 60.000 Radiosender aus der ganzen Welt"
+
+msgid "Thank you for using"
+msgstr "Danke, dass du benutzt"
+
+msgid "If you find it useful, please consider donating to support further development. Every bit helps!"
+msgstr "Wenn du es nützlich findest, ziehe bitte eine Spende in Betracht, um die weitere Entwicklung zu unterstützen. Jeder Beitrag hilft!"
+
+msgid "This message will not appear again. For more information, click the blue button below."
+msgstr "Diese Nachricht wird nicht mehr angezeigt. Für weitere Informationen klicke auf den blauen Knopf unten."
+
+msgid "1 sec."
+msgstr "1 Sek."
+
+msgid "2 sec."
+msgstr "2 Sek."
+
+msgid "3 sec."
+msgstr "3 Sek."
+
+msgid "4 sec."
+msgstr "4 Sek."
+
+msgid "5 sec."
+msgstr "5 Sek."
+
+msgid "10 sec."
+msgstr "10 Sek."
+
+msgid "20 sec."
+msgstr "20 Sek."
+
+msgid "30 sec."
+msgstr "30 Sek."
+
+msgid "40 sec."
+msgstr "40 Sek."
+
+msgid "50 sec."
+msgstr "50 Sek."
+
+msgid "60 sec."
+msgstr "60 Sek."
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Click Count"
+msgstr "Anzahl der Klicks"
+
+msgid "1000000"
+msgstr "1000000"
+
+msgid "Disable"
+msgstr "Deaktivieren"
+
+msgid "6 sec."
+msgstr "6 Sek."
+
+msgid "7 sec."
+msgstr "7 Sek."
+
+msgid "8 sec."
+msgstr "8 Sek."
+
+msgid "9 sec."
+msgstr "9 Sek."
+
+msgid "11 sec."
+msgstr "11 Sek."
+
+msgid "12 sec."
+msgstr "12 Sek."
+
+msgid "13 sec."
+msgstr "13 Sek."
+
+msgid "14 sec."
+msgstr "14 Sek."
+
+msgid "15 sec."
+msgstr "15 Sek."
+
+msgid "16 sec."
+msgstr "16 Sek."
+
+msgid "17 sec."
+msgstr "17 Sek."
+
+msgid "18 sec."
+msgstr "18 Sek."
+
+msgid "19 sec."
+msgstr "19 Sek."
+
+msgid "25 sec."
+msgstr "25 Sek."
+
+msgid "45 sec."
+msgstr "45 Sek."
+
+msgid "gstreamer"
+msgstr "gstreamer"
+
+msgid "gstplayer"
+msgstr "gstplayer"
+
+msgid "exteplayer3"
+msgstr "exteplayer3"
+
+msgid "Random Dynamic Wallpapers"
+msgstr "Zufällige dynamische Hintergründe"
+
+msgid "1 min."
+msgstr "1 Min."
+
+msgid "2 min."
+msgstr "2 Min."
+
+msgid "10%"
+msgstr "10%"
+
+msgid "20%"
+msgstr "20%"
+
+msgid "30%"
+msgstr "30%"
+
+msgid "40%"
+msgstr "40%"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "60%"
+msgstr "60%"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "80%"
+msgstr "80%"
+
+msgid "90%"
+msgstr "90%"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Exit"
+msgstr "Beenden"
+
+msgid "Defaults"
+msgstr "Standardwerte"
+
+msgid "Config"
+msgstr "Konfiguration"
+
+msgid "Main"
+msgstr "Haupt"
+
+msgid "Show in Main Menu"
+msgstr "Im Hauptmenü anzeigen"
+
+msgid "Show in Plugin List"
+msgstr "In der Plugin-Liste anzeigen"
+
+msgid "Show in Extension List"
+msgstr "In der Erweiterungsliste anzeigen (meistens blauer Knopf)"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Sort Stations by"
+msgstr "Stationen sortieren nach"
+
+msgid "Stations per Page"
+msgstr "Stationen pro Seite"
+
+msgid "Hide Broken Stations"
+msgstr "Defekte Stationen ausblenden"
+
+msgid "Download Station Logo (if exists)"
+msgstr "Stationslogo herunterladen (falls vorhanden)"
+
+msgid "Refresh Metadata every"
+msgstr "Metadaten aktualisieren alle"
+
+msgid "Start Visualization after"
+msgstr "Visualisierung starten nach"
+
+msgid "Visualization Type"
+msgstr "Visualisierungstyp"
+
+msgid "Dynamic Wallpapers Duration"
+msgstr "Dauer der dynamischen Hintergründe"
+
+msgid "Show Duration Progress"
+msgstr "Fortschritt der Dauer anzeigen"
+
+msgid "Image Quality"
+msgstr "Bildqualität"
+
+msgid "Theme"
+msgstr "Thema"
+
+msgid "Translate Artist Biography"
+msgstr "Übersetze die Künstlerbiografie"
+
+msgid "Player (some stations require a different player)"
+msgstr "Player (einige Stationen erfordern einen anderen Player)"
+
+msgid "My Own"
+msgstr "Mein Eigenes"
+
+msgid "Predefined"
+msgstr "Vordefiniert"
+
+msgid "Paths"
+msgstr "Pfade"
+
+msgid "Temporary path"
+msgstr "Temporärer Pfad"
+
+msgid "Connection"
+msgstr "Verbindung"
+
+msgid "General Timeout"
+msgstr "Allgemeine Zeitüberschreitung"
+
+msgid "Small Timeout"
+msgstr "Kurze Zeitüberschreitung"
+
+msgid "ATTENTION: PLUGIN HIDDEN!"
+msgstr "ACHTUNG: PLUGIN VERSTECKT!"
+
+msgid "Consequently"
+msgstr "Folglich"
+
+msgid "the plugin will no longer be able to start."
+msgstr "das Plugin wird nicht mehr starten können."
+
+msgid "Please ensure that you enable it in at least one list."
+msgstr "Bitte stelle sicher, dass es in mindestens einer Liste aktiviert ist."
+
+msgid "Saved"
+msgstr "Gespeichert"
+
+msgid "You need to"
+msgstr "Du musst"
+
+msgid "restart ENIGMA2"
+msgstr "ENIGMA2 neu starten"
+
+msgid "to apply changes."
+msgstr "um Änderungen zu übernehmen."
+
+msgid "Restart now?"
+msgstr "Jetzt neu starten?"
+
+msgid "restart PLUGIN"
+msgstr "PLUGIN neu starten"
+
+msgid "Config successfully saved."
+msgstr "Konfiguration erfolgreich gespeichert."
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Collecting data"
+msgstr "Daten sammeln"
+
+msgid "Wait...."
+msgstr "Warte...."
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Music plugin to access over 60,000 international radio broadcasters from the world."
+msgstr "Musik-Plugin für den Zugriff auf über 60.000 internationale Radiosender."
+
+msgid "Browse stations by genre, country, tag and language."
+msgstr "Durchsuche Stationen nach Genre, Land, Tag und Sprache."
+
+msgid "Favorites"
+msgstr "Favoriten"
+
+msgid "Recommendations"
+msgstr "Empfehlungen"
+
+msgid "My Country"
+msgstr "Mein Land"
+
+msgid "Top 100 (by clicks)"
+msgstr "Top 100 (nach Klicks)"
+
+msgid "Top 100 (by votes)"
+msgstr "Top 100 (nach Stimmen)"
+
+msgid "By Genre"
+msgstr "Nach Genre"
+
+msgid "By Country"
+msgstr "Nach Land"
+
+msgid "By Tags"
+msgstr "Nach Tags"
+
+msgid "By Language"
+msgstr "Nach Sprache"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Getting stations"
+msgstr "Stationen abrufen"
+
+msgid "Please wait a moment..."
+msgstr "Bitte einen Moment warten..."
+
+msgid "No Favorites yet. Add some first."
+msgstr "Noch keine Favoriten. Füge zuerst welche hinzu."
+
+msgid "Search Station"
+msgstr "Station suchen"
+
+msgid "Do you like it? If so, please consider donating"
+msgstr "Gefällt es dir? Dann ziehe bitte eine Spende in Betracht"
+
+msgid "Press 'Yes' if you'd like to learn more about how your donation helps, and we'll provide instructions on how to donate."
+msgstr "Drücke 'Ja', wenn du mehr darüber erfahren möchtest, wie deine Spende hilft. Wir geben dir Anweisungen, wie du spenden kannst."
+
+msgid "These exclusive features are only available to donators and supporters."
+msgstr "Diese exklusiven Funktionen stehen nur Spendern und Unterstützern zur Verfügung."
+
+msgid "Press 'Yes' if you'd like to learn more about how to unlock these features and get instructions on how to become a supporter."
+msgstr "Drücke 'Ja', wenn du mehr darüber erfahren möchtest, wie du diese Funktionen freischalten kannst und Anweisungen erhalten möchtest, wie du Unterstützer wirst."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but all entries in the old file were invalid and could not be converted."
+msgstr "Wir haben versucht, deine alten Favoriten in das neue JSON-Format zu konvertieren, aber alle Einträge in der alten Datei waren ungültig und konnten nicht konvertiert werden."
+
+msgid "We have tried to convert your old favorites to the new JSON format. Some entries"
+msgstr "Wir haben versucht, deine alten Favoriten in das neue JSON-Format zu konvertieren. Einige Einträge"
+
+msgid "in the old format were invalid and could not be converted. The valid entries have been converted."
+msgstr "im alten Format waren ungültig und konnten nicht konvertiert werden. Die gültigen Einträge wurden konvertiert."
+
+msgid "Your favorites have been successfully converted to the new JSON format. This improves performance and reliability. No action is required from you."
+msgstr "Deine Favoriten wurden erfolgreich in das neue JSON-Format konvertiert. Dies verbessert die Leistung und Zuverlässigkeit. Du musst nichts weiter unternehmen."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but no valid entries were found in the old file."
+msgstr "Wir haben versucht, deine alten Favoriten in das neue JSON-Format zu konvertieren, aber es wurden keine gültigen Einträge in der alten Datei gefunden."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but an unexpected error occurred: "
+msgstr "Wir haben versucht, deine alten Favoriten in das neue JSON-Format zu konvertieren, aber ein unerwarteter Fehler ist aufgetreten: "
+
+msgid "Browse by"
+msgstr "Durchsuchen nach"
+
+msgid "Genres"
+msgstr "Genres"
+
+msgid "Countries"
+msgstr "Länder"
+
+msgid "Count"
+msgstr "Anzahl"
+
+msgid "CH +/- Sorting"
+msgstr "CH +/- Sortierung"
+
+msgid "Export list..."
+msgstr "Liste exportieren..."
+
+msgid "Add to Service List"
+msgstr "Zur Service-Liste hinzufügen"
+
+msgid "Lyrics"
+msgstr "Songtexte"
+
+msgid "Stations"
+msgstr "Stationen"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Lang"
+msgstr "Sprache"
+
+msgid "Genre"
+msgstr "Genre"
+
+msgid "- FAV"
+msgstr "- FAV"
+
+msgid "+ FAV"
+msgstr "+ FAV"
+
+msgid "Please wait..."
+msgstr "Bitte warten..."
+
+msgid "Starting station"
+msgstr "Starte Station"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Can't connect to the server."
+msgstr "Kann keine Verbindung zum Server herstellen."
+
+msgid "Server response"
+msgstr "Serverantwort"
+
+msgid "from"
+msgstr "von"
+
+msgid "already EXISTS in favorites"
+msgstr "existiert bereits in den Favoriten"
+
+msgid "Success"
+msgstr "Erfolg"
+
+msgid "was ADDED to the favorites"
+msgstr "wurde den Favoriten HINZUGEFÜGT"
+
+msgid "was REMOVED from the favorites"
+msgstr "wurde aus den Favoriten ENTFERNT"
+
+msgid "updated"
+msgstr "aktualisiert"
+
+msgid "created"
+msgstr "erstellt"
+
+msgid "Bouquet"
+msgstr "Bouquet"
+
+msgid "successfully."
+msgstr "erfolgreich."
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "No biography info"
+msgstr "Keine Biografie-Informationen"
+
+msgid "Similar"
+msgstr "Ähnlich"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "The lyrics access token provided is expired, revoked, malformed, or invalid for other reasons."
+msgstr "Das bereitgestellte Zugangstoken für Songtexte ist abgelaufen, widerrufen, fehlerhaft oder aus anderen Gründen ungültig."
+
+msgid "If you still don't have an access token, you need to generate one first, for free:"
+msgstr "Wenn du noch kein Zugangstoken hast, musst du zuerst eines kostenlos generieren:"
+
+msgid "- Go to https://genius.com and sign up"
+msgstr "- Gehe zu https://genius.com und melde dich an"
+
+msgid "- Go to https://genius.com/api-clients/new/"
+msgstr "- Gehe zu https://genius.com/api-clients/new/"
+
+msgid "- Populate the fields. Some fields are mandatory, others are not"
+msgstr "- Fülle die Felder aus. Einige Felder sind obligatorisch, andere nicht"
+
+msgid "After populating the fields:"
+msgstr "Nach dem Ausfüllen der Felder:"
+
+msgid "- Click on 'Generate Access Token'"
+msgstr "- Klicke auf 'Generate Access Token'"
+
+msgid "- Copy and paste the newly generated access token to:"
+msgstr "- Kopiere und füge das neu generierte Zugangstoken ein in:"
+
+msgid "/etc/enigma2/fnc/AirNet-FNC/lyrics_token.txt"
+msgstr "/etc/enigma2/fnc/AirNet-FNC/lyrics_token.txt"
+
+msgid "- Save and restart E2"
+msgstr "- Speichere und starte E2 neu"
+
+msgid "Searching for lyrics for the current song, please wait a few seconds..."
+msgstr "Suche nach Songtexten für das aktuelle Lied, bitte warte ein paar Sekunden..."
+
+msgid "Error: Received status code "
+msgstr "Fehler: Erhaltener Statuscode "
+
+msgid "The server took too long to respond. Check your internet connection if the issue persists."
+msgstr "Der Server hat zu lange gebraucht, um zu antworten. Überprüfe deine Internetverbindung, wenn das Problem weiterhin besteht."
+
+msgid "Network error."
+msgstr "Netzwerkfehler."
+
+msgid "The server might be down, or there could be an issue with your internet connection."
+msgstr "Der Server könnte ausgefallen sein, oder es könnte ein Problem mit deiner Internetverbindung vorliegen."
+
+msgid "An unexpected error occurred while making the request."
+msgstr "Ein unerwarteter Fehler ist beim Senden der Anfrage aufgetreten."
+
+msgid "It seems that no lyrics are available for the current song. You can continue to enjoy the live stream!"
+msgstr "Es scheint, dass keine Songtexte für das aktuelle Lied verfügbar sind. Du kannst weiterhin den Livestream genießen!"
+
+msgid "The lyrics will be automatically updated when the next song plays."
+msgstr "Die Songtexte werden automatisch aktualisiert, wenn das nächste Lied abgespielt wird."
+
+msgid "You can stay on this screen, and as soon as the new song's lyrics are available, they will be displayed here."
+msgstr "Du kannst auf diesem Bildschirm bleiben, und sobald die Songtexte des neuen Liedes verfügbar sind, werden sie hier angezeigt."
+
+msgid "Please note, despite using one of the world's largest lyrics databases, it is sometimes impossible to find the exact lyrics among billions of songs, especially with different song name variations."
+msgstr "Bitte beachte, dass es trotz der Verwendung einer der größten Songtext-Datenbanken der Welt manchmal unmöglich ist, die genauen Songtexte unter Milliarden von Liedern zu finden, insbesondere bei unterschiedlichen Varianten von Songtiteln."
+
+msgid "Export..."
+msgstr "Exportieren..."
+
+msgid "Lyrics exported successfully."
+msgstr "Songtexte erfolgreich exportiert."
+
+msgid "Support Our Work and Unlock Exclusive Features!"
+msgstr "Unterstütze unsere Arbeit und schalte exklusive Funktionen frei!"
+
+msgid ""
+"Thank you for using our free software! Your support helps us continue developing and maintaining our projects, covering server costs, and delivering a great experience. By donating, you not only help sustain our work but also gain access to exclusive features available only to our supporters.\n"
+"\n"
+"Here's how you can donate:\n"
+"\n"
+"Visit our donation page at"
+msgstr ""
+"Vielen Dank, dass du unsere kostenlose Software verwendest! Deine Unterstützung hilft uns, unsere Projekte weiterzuentwickeln und zu pflegen, Serverkosten zu decken und ein großartiges Erlebnis zu bieten. Durch deine Spende hilfst du nicht nur, unsere Arbeit aufrechtzuerhalten, sondern erhältst auch Zugang zu exklusiven Funktionen, die nur unseren Unterstützern zur Verfügung stehen.\n"
+"\n"
+"Hier erfährst du, wie du spenden kannst:\n"
+"\n"
+"Besuche unsere Spenden-Seite unter"
+
+msgid ""
+"Contribute any amount you feel comfortable with.\n"
+"When donating, please enter name and your unique KUD number into message box. ENSURE you check the 'PRIVATE MESSAGE' box when sending. (Your KUD must remain private).\n"
+"\n"
+"Once we verify your donation, we’ll grant you access to features that are reserved for our valued supporters. It’s our way of saying thank you for your contribution!\n"
+"\n"
+"Ready to support us?\n"
+"Donate Now!\n"
+"\n"
+"Your support makes a big difference. Thank you for helping us keep our projects alive and thriving!"
+msgstr ""
+"Spende jeden Betrag, mit dem du dich wohlfühlst.\n"
+"Bei der Spende gib bitte deinen Namen und deine einzigartige KUD-Nummer in das Nachrichtenfeld ein. STELLE SICHER, dass du das Feld 'PRIVATE MESSAGE' beim Senden anklickst. (Dein KUD muss privat bleiben).\n"
+"\n"
+"Sobald wir deine Spende verifizieren, gewähren wir dir Zugang zu Funktionen, die nur unseren geschätzten Unterstützern vorbehalten sind. Es ist unsere Art, dir für deinen Beitrag zu danken!\n"
+"\n"
+"Bist du bereit, uns zu unterstützen?\n"
+"Spende jetzt!\n"
+"\n"
+"Deine Unterstützung macht einen großen Unterschied. Vielen Dank, dass du uns hilfst, unsere Projekte lebendig und erfolgreich zu halten!"
+
+msgid "Export"
+msgstr "Exportieren"
+
+msgid "as"
+msgstr "als"
+
+msgid "Mising '/etc/enigma2/bouquets.tv'. Please install some list first, after that try again."
+msgstr "Fehlende '/etc/enigma2/bouquets.tv'. Bitte installiere zuerst eine Liste und versuche es dann erneut."
+
+msgid "M3U exported successfully."
+msgstr "M3U erfolgreich exportiert."
+
+msgid "PLS exported successfully."
+msgstr "PLS erfolgreich exportiert."
+
+msgid "XSPF exported successfully."
+msgstr "XSPF erfolgreich exportiert."
+
+msgid "ASX exported successfully."
+msgstr "ASX erfolgreich exportiert."
+
+msgid "Export to enigma2 bouquet"
+msgstr "Exportiere zu Enigma2 Bouquet"
+
+msgid "Export as M3U"
+msgstr "Exportiere als M3U"
+
+msgid "Export as PLS"
+msgstr "Exportiere als PLS"
+
+msgid "Export as XSPF"
+msgstr "Exportiere als XSPF"
+
+msgid "Export as ASX"
+msgstr "Exportiere als ASX"
+
+msgid "Record"
+msgstr "Aufnehmen"
+
+msgid "Please start playing the stream before attempting to record."
+msgstr "Bitte starte die Wiedergabe des Streams, bevor du versuchst aufzunehmen."
+
+msgid "HLS stream recording is under development and will be available soon."
+msgstr "Die Aufnahme von HLS-Streams ist in Entwicklung und wird bald verfügbar sein."
+
+msgid "A recording is currently in progress."
+msgstr "Eine Aufnahme läuft derzeit."
+
+msgid "Please stop the current recording before starting a new one."
+msgstr "Bitte stoppe die aktuelle Aufnahme, bevor du eine neue startest."
+
+msgid "An error occurred while checking the stream for"
+msgstr "Es ist ein Fehler aufgetreten beim Überprüfen des Streams für"
+
+msgid "An unexpected error occurred while checking the stream for"
+msgstr "Ein unerwarteter Fehler ist beim Überprüfen des Streams für aufgetreten"
+
+msgid "You have only"
+msgstr "Du hast nur"
+
+msgid "of free space left on"
+msgstr "freien Speicherplatz auf"
+
+msgid "Please change your 'Storage path' in Settings and select one with more free space to continue recording."
+msgstr "Bitte ändere den 'Storage path' in den Einstellungen und wähle einen mit mehr freiem Speicherplatz, um mit der Aufnahme fortzufahren."
+
+msgid "Read-only device!"
+msgstr "Schreibgeschütztes Gerät!"
+
+msgid "Please check device access or change the 'Storage path' in Settings to continue recording."
+msgstr "Bitte überprüfe den Gerätezugriff oder ändere den 'Storage path' in den Einstellungen, um mit der Aufnahme fortzufahren."
+
+msgid "Destination"
+msgstr "Ziel"
+
+msgid "Destination already exists"
+msgstr "Ziel existiert bereits"
+
+msgid "Do you want to overwrite it?"
+msgstr "Möchtest du es überschreiben?"
+
+msgid "Recording started in the background in TIMING mode."
+msgstr "Die Aufnahme wurde im Hintergrund im TIMING-Modus gestartet."
+
+msgid "Station"
+msgstr "Sender"
+
+msgid "Recording duration"
+msgstr "Aufnahmedauer"
+
+msgid "Feel free to close the plugin and continue watching TV, listening to another station, or doing anything else you like."
+msgstr "Du kannst das Plugin gerne schließen und weiter fernsehen, einen anderen Sender hören oder tun, was du möchtest."
+
+msgid "The recording will automatically stop after the specified duration. You can also stop it manually at any time by opening the plugin again and pressing the Stop button."
+msgstr "Die Aufnahme wird nach der angegebenen Dauer automatisch gestoppt. Du kannst sie auch jederzeit manuell stoppen, indem du das Plugin erneut öffnest und den Stop-Button drückst."
+
+msgid "Make sure you have enough free disk space in 'Storage path'."
+msgstr "Stelle sicher, dass du genügend freien Festplattenspeicher im 'Storage path' hast."
+
+msgid "Recording started in the background in INDEFINITE mode."
+msgstr "Die Aufnahme wurde im Hintergrund im UNBEGRENZT-Modus gestartet."
+
+msgid "If you want to stop the recording process at any time, open the plugin again and press the Stop button."
+msgstr "Wenn du den Aufnahmeprozess jederzeit stoppen möchtest, öffne das Plugin erneut und drücke den Stop-Button."
+
+msgid "Are you sure you want to stop the current recording?"
+msgstr "Bist du sicher, dass du die aktuelle Aufnahme stoppen möchtest?"
+
+msgid "for recording, media..."
+msgstr "für die Aufnahme, Medien..."
+
+msgid "Recording"
+msgstr "Aufnahme"
+
+msgid "Select recording duration"
+msgstr "Wähle die Aufnahmedauer"
+
+msgid "Show Start Message Info"
+msgstr "Start-Info-Nachricht anzeigen"
+
+msgid "Recording SUCCESSFULLY finished."
+msgstr "Aufnahme ERFOLGREICH abgeschlossen."
+
+msgid "An unexpected error occurred."
+msgstr "Ein unerwarteter Fehler ist aufgetreten."
+
+msgid "Error while recording."
+msgstr "Fehler beim Aufnehmen."
+
+msgid "Indefinitely"
+msgstr "Unbegrenzt"
+
+msgid "5 min."
+msgstr "5 Min."
+
+msgid "10 min."
+msgstr "10 Min."
+
+msgid "20 min."
+msgstr "20 Min."
+
+msgid "30 min."
+msgstr "30 Min."
+
+msgid "40 min."
+msgstr "40 Min."
+
+msgid "50 min."
+msgstr "50 Min."
+
+msgid "1 hour"
+msgstr "1 Stunde"
+
+msgid "2 hours"
+msgstr "2 Stunden"
+
+msgid "3 hours"
+msgstr "3 Stunden"
+
+msgid "4 hours"
+msgstr "4 Stunden"
+
+msgid "5 hours"
+msgstr "5 Stunden"
+
+msgid "6 hours"
+msgstr "6 Stunden"
+
+msgid "7 hours"
+msgstr "7 Stunden"
+
+msgid "8 hours"
+msgstr "8 Stunden"
+
+msgid "9 hours"
+msgstr "9 Stunden"
+
+msgid "10 hours"
+msgstr "10 Stunden"
+
+msgid "11 hours"
+msgstr "11 Stunden"
+
+msgid "12 hours"
+msgstr "12 Stunden"
+
+msgid "13 hours"
+msgstr "13 Stunden"
+
+msgid "14 hours"
+msgstr "14 Stunden"
+
+msgid "15 hours"
+msgstr "15 Stunden"
+
+msgid "16 hours"
+msgstr "16 Stunden"
+
+msgid "17 hours"
+msgstr "17 Stunden"
+
+msgid "18 hours"
+msgstr "18 Stunden"
+
+msgid "19 hours"
+msgstr "19 Stunden"
+
+msgid "20 hours"
+msgstr "20 Stunden"
+
+msgid "21 hours"
+msgstr "21 Stunde"
+
+msgid "22 hours"
+msgstr "22 Stunden"
+
+msgid "23 hours"
+msgstr "23 Stunden"
+
+msgid "24 hours"
+msgstr "24 Stunden"
+
+msgid "Starting"
+msgstr "Starte"
+
+msgid "Stopped"
+msgstr "Gestoppt"
+
+msgid "In progress"
+msgstr "In Bearbeitung"
+
+msgid "Connection to server lost."
+msgstr "Verbindung zum Server verloren."
+
+msgid "Error writing chunk."
+msgstr "Fehler beim Schreiben des Chunks."
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Error status code."
+msgstr "Fehlerstatuscode."
+
+msgid "No active recording to stop or ID mismatch."
+msgstr "Kein aktives Aufnahme zum Stoppen oder ID-Fehler."
+
+msgid "Unknown Error."
+msgstr "Unbekannter Fehler."
+
+msgid "Artist/Song Info"
+msgstr "Künstler/Lied Info"

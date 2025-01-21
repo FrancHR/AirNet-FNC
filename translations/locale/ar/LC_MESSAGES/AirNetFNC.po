@@ -1,0 +1,848 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-05 16:46+0100\n"
+"PO-Revision-Date: 2025-01-20 01:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Access over 60,000 broadcasters from the world"
+msgstr "الوصول إلى أكثر من 60,000 محطة بث من جميع أنحاء العالم"
+
+msgid "Thank you for using"
+msgstr "شكراً لاستخدامك"
+
+msgid "If you find it useful, please consider donating to support further development. Every bit helps!"
+msgstr "إذا وجدته مفيداً، يرجى التفكير في التبرع لدعم المزيد من التطوير. كل مساهمة تساعد!"
+
+msgid "This message will not appear again. For more information, click the blue button below."
+msgstr "لن تظهر هذه الرسالة مرة أخرى. للحصول على مزيد من المعلومات، انقر على الزر الأزرق أدناه."
+
+msgid "1 sec."
+msgstr "1 ثانية"
+
+msgid "2 sec."
+msgstr "2 ثانية"
+
+msgid "3 sec."
+msgstr "3 ثواني"
+
+msgid "4 sec."
+msgstr "4 ثواني"
+
+msgid "5 sec."
+msgstr "5 ثواني"
+
+msgid "10 sec."
+msgstr "10 ثواني"
+
+msgid "20 sec."
+msgstr "20 ثانية"
+
+msgid "30 sec."
+msgstr "30 ثانية"
+
+msgid "40 sec."
+msgstr "40 ثانية"
+
+msgid "50 sec."
+msgstr "50 ثانية"
+
+msgid "60 sec."
+msgstr "60 ثانية"
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "Click Count"
+msgstr "عدد النقرات"
+
+msgid "1000000"
+msgstr "1000000"
+
+msgid "Disable"
+msgstr "تعطيل"
+
+msgid "6 sec."
+msgstr "6 ثواني"
+
+msgid "7 sec."
+msgstr "7 ثواني"
+
+msgid "8 sec."
+msgstr "8 ثواني"
+
+msgid "9 sec."
+msgstr "9 ثواني"
+
+msgid "11 sec."
+msgstr "11 ثانية"
+
+msgid "12 sec."
+msgstr "12 ثانية"
+
+msgid "13 sec."
+msgstr "13 ثانية"
+
+msgid "14 sec."
+msgstr "14 ثانية"
+
+msgid "15 sec."
+msgstr "15 ثانية"
+
+msgid "16 sec."
+msgstr "16 ثانية"
+
+msgid "17 sec."
+msgstr "17 ثانية"
+
+msgid "18 sec."
+msgstr "18 ثانية"
+
+msgid "19 sec."
+msgstr "19 ثانية"
+
+msgid "25 sec."
+msgstr "25 ثانية"
+
+msgid "45 sec."
+msgstr "45 ثانية"
+
+msgid "gstreamer"
+msgstr "جيستريمر"
+
+msgid "gstplayer"
+msgstr "جيست بلاير"
+
+msgid "exteplayer3"
+msgstr "إكست بلاير 3"
+
+msgid "Random Dynamic Wallpapers"
+msgstr "خلفيات ديناميكية عشوائية"
+
+msgid "1 min."
+msgstr "دقيقة واحدة"
+
+msgid "2 min."
+msgstr "دقيقتان"
+
+msgid "10%"
+msgstr "10%"
+
+msgid "20%"
+msgstr "20%"
+
+msgid "30%"
+msgstr "30%"
+
+msgid "40%"
+msgstr "40%"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "60%"
+msgstr "60%"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "80%"
+msgstr "80%"
+
+msgid "90%"
+msgstr "90%"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "Defaults"
+msgstr "الإعدادات الافتراضية"
+
+msgid "Config"
+msgstr "الإعدادات"
+
+msgid "Main"
+msgstr "الرئيسي"
+
+msgid "Show in Main Menu"
+msgstr "عرض في القائمة الرئيسية"
+
+msgid "Show in Plugin List"
+msgstr "عرض في قائمة الإضافات"
+
+msgid "Show in Extension List"
+msgstr "عرض في قائمة الإضافات (عادةً الزر الأزرق)"
+
+msgid "Radio"
+msgstr "راديو"
+
+msgid "Sort Stations by"
+msgstr "فرز المحطات بواسطة"
+
+msgid "Stations per Page"
+msgstr "محطات لكل صفحة"
+
+msgid "Hide Broken Stations"
+msgstr "إخفاء المحطات المعطلة"
+
+msgid "Download Station Logo (if exists)"
+msgstr "تحميل شعار المحطة (إذا كان موجوداً)"
+
+msgid "Refresh Metadata every"
+msgstr "تحديث البيانات الوصفية كل"
+
+msgid "Start Visualization after"
+msgstr "بدء التصور بعد"
+
+msgid "Visualization Type"
+msgstr "نوع التصور"
+
+msgid "Dynamic Wallpapers Duration"
+msgstr "مدة الخلفيات الديناميكية"
+
+msgid "Show Duration Progress"
+msgstr "عرض تقدم المدة"
+
+msgid "Image Quality"
+msgstr "جودة الصورة"
+
+msgid "Theme"
+msgstr "السمة"
+
+msgid "Translate Artist Biography"
+msgstr "ترجمة سيرة الفنان"
+
+msgid "Player (some stations require a different player)"
+msgstr "مشغل (بعض المحطات تتطلب مشغل مختلف)"
+
+msgid "My Own"
+msgstr "الخاصة بي"
+
+msgid "Predefined"
+msgstr "مسبق التعريف"
+
+msgid "Paths"
+msgstr "المسارات"
+
+msgid "Temporary path"
+msgstr "المسار المؤقت"
+
+msgid "Connection"
+msgstr "الاتصال"
+
+msgid "General Timeout"
+msgstr "الانقضاء العام"
+
+msgid "Small Timeout"
+msgstr "انقضاء صغير"
+
+msgid "ATTENTION: PLUGIN HIDDEN!"
+msgstr "انتباه: الإضافة مخفية!"
+
+msgid "Consequently"
+msgstr "وبالتالي"
+
+msgid "the plugin will no longer be able to start."
+msgstr "لن تتمكن الإضافة من البدء بعد الآن."
+
+msgid "Please ensure that you enable it in at least one list."
+msgstr "يرجى التأكد من تمكينها في قائمة واحدة على الأقل."
+
+msgid "Saved"
+msgstr "تم الحفظ"
+
+msgid "You need to"
+msgstr "أنت بحاجة إلى"
+
+msgid "restart ENIGMA2"
+msgstr "إعادة تشغيل ENIGMA2"
+
+msgid "to apply changes."
+msgstr "لتطبيق التغييرات."
+
+msgid "Restart now?"
+msgstr "إعادة التشغيل الآن؟"
+
+msgid "restart PLUGIN"
+msgstr "إعادة تشغيل الإضافة"
+
+msgid "Config successfully saved."
+msgstr "تم حفظ الإعدادات بنجاح."
+
+msgid "Information"
+msgstr "معلومات"
+
+msgid "Collecting data"
+msgstr "جمع البيانات"
+
+msgid "Wait...."
+msgstr "انتظر...."
+
+msgid "Credits"
+msgstr "حقوق النشر"
+
+msgid "Menu"
+msgstr "القائمة (Menu)"
+
+msgid "Music plugin to access over 60,000 international radio broadcasters from the world."
+msgstr "إضافة موسيقى للوصول إلى أكثر من 60,000 محطة راديو دولية من جميع أنحاء العالم."
+
+msgid "Browse stations by genre, country, tag and language."
+msgstr "تصفح المحطات حسب النوع، البلد، العلامة، واللغة."
+
+msgid "Favorites"
+msgstr "المفضلات"
+
+msgid "Recommendations"
+msgstr "التوصيات"
+
+msgid "My Country"
+msgstr "بلدي"
+
+msgid "Top 100 (by clicks)"
+msgstr "أعلى 100 (حسب النقرات)"
+
+msgid "Top 100 (by votes)"
+msgstr "أعلى 100 (حسب الأصوات)"
+
+msgid "By Genre"
+msgstr "حسب النوع"
+
+msgid "By Country"
+msgstr "حسب البلد"
+
+msgid "By Tags"
+msgstr "حسب العلامات"
+
+msgid "By Language"
+msgstr "حسب اللغة"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Getting stations"
+msgstr "البحث عن المحطات"
+
+msgid "Please wait a moment..."
+msgstr "الرجاء الانتظار لحظة..."
+
+msgid "No Favorites yet. Add some first."
+msgstr "لا توجد مفضلات بعد. أضف بعض أولاً."
+
+msgid "Search Station"
+msgstr "بحث عن محطة"
+
+msgid "Do you like it? If so, please consider donating"
+msgstr "هل يعجبك؟ إذا كان الأمر كذلك، يرجى التفكير في التبرع"
+
+msgid "Press 'Yes' if you'd like to learn more about how your donation helps, and we'll provide instructions on how to donate."
+msgstr "اضغط 'نعم' إذا كنت ترغب في معرفة المزيد حول كيفية مساعدة تبرعك، وسنقدم لك تعليمات حول كيفية التبرع."
+
+msgid "These exclusive features are only available to donators and supporters."
+msgstr "هذه الميزات الحصرية متاحة فقط للمتبرعين والداعمين."
+
+msgid "Press 'Yes' if you'd like to learn more about how to unlock these features and get instructions on how to become a supporter."
+msgstr "اضغط 'نعم' إذا كنت ترغب في معرفة المزيد حول كيفية فتح هذه الميزات والحصول على تعليمات حول كيفية أن تصبح داعماً."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but all entries in the old file were invalid and could not be converted."
+msgstr "حاولنا تحويل مفضلاتك القديمة إلى التنسيق الجديد JSON، لكن جميع الإدخالات في الملف القديم كانت غير صالحة ولم يتم تحويلها."
+
+msgid "We have tried to convert your old favorites to the new JSON format. Some entries"
+msgstr "حاولنا تحويل مفضلاتك القديمة إلى التنسيق الجديد JSON. بعض الإدخالات"
+
+msgid "in the old format were invalid and could not be converted. The valid entries have been converted."
+msgstr "في التنسيق القديم كانت غير صالحة ولم يتم تحويلها. تم تحويل الإدخالات الصالحة."
+
+msgid "Your favorites have been successfully converted to the new JSON format. This improves performance and reliability. No action is required from you."
+msgstr "تم تحويل مفضلاتك بنجاح إلى التنسيق الجديد JSON. هذا يحسن الأداء والموثوقية. لا يتطلب منك أي إجراء."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but no valid entries were found in the old file."
+msgstr "حاولنا تحويل مفضلاتك القديمة إلى التنسيق الجديد JSON، لكن لم يتم العثور على أي إدخالات صالحة في الملف القديم."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but an unexpected error occurred: "
+msgstr "حاولنا تحويل مفضلاتك القديمة إلى التنسيق الجديد JSON، ولكن حدث خطأ غير متوقع: "
+
+msgid "Browse by"
+msgstr "تصفح حسب"
+
+msgid "Genres"
+msgstr "الأنواع"
+
+msgid "Countries"
+msgstr "البلدان"
+
+msgid "Count"
+msgstr "العدد"
+
+msgid "CH +/- Sorting"
+msgstr "فرز CH +/-"
+
+msgid "Export list..."
+msgstr "تصدير القائمة..."
+
+msgid "Add to Service List"
+msgstr "إضافة إلى قائمة الخدمة"
+
+msgid "Lyrics"
+msgstr "كلمات الأغاني"
+
+msgid "Stations"
+msgstr "المحطات"
+
+msgid "Info"
+msgstr "معلومات"
+
+msgid "Bitrate"
+msgstr "معدل البت"
+
+msgid "Country"
+msgstr "البلد"
+
+msgid "Lang"
+msgstr "اللغة"
+
+msgid "Genre"
+msgstr "النوع"
+
+msgid "- FAV"
+msgstr "- المفضلة"
+
+msgid "+ FAV"
+msgstr "+ المفضلة"
+
+msgid "Please wait..."
+msgstr "الرجاء الانتظار..."
+
+msgid "Starting station"
+msgstr "بدء المحطة"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Can't connect to the server."
+msgstr "لا يمكن الاتصال بالخادم"
+
+msgid "Server response"
+msgstr "استجابة الخادم"
+
+msgid "from"
+msgstr "من"
+
+msgid "already EXISTS in favorites"
+msgstr "موجود بالفعل في المفضلات"
+
+msgid "Success"
+msgstr "نجاح"
+
+msgid "was ADDED to the favorites"
+msgstr "تمت إضافته إلى المفضلات"
+
+msgid "was REMOVED from the favorites"
+msgstr "تمت إزالته من المفضلات"
+
+msgid "updated"
+msgstr "تم التحديث"
+
+msgid "created"
+msgstr "تم الإنشاء"
+
+msgid "Bouquet"
+msgstr "باقة"
+
+msgid "successfully."
+msgstr "بنجاح."
+
+msgid "Album"
+msgstr "ألبوم"
+
+msgid "Tags"
+msgstr "علامات"
+
+msgid "No biography info"
+msgstr "لا توجد معلومات عن السيرة الذاتية"
+
+msgid "Similar"
+msgstr "مشابه"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "OK"
+msgstr "موافق"
+
+msgid "The lyrics access token provided is expired, revoked, malformed, or invalid for other reasons."
+msgstr "رمز الوصول إلى كلمات الأغاني المقدم منتهي الصلاحية أو تم إلغاؤه أو مشوه أو غير صالح لأسباب أخرى."
+
+msgid "If you still don't have an access token, you need to generate one first, for free:"
+msgstr "إذا لم يكن لديك رمز وصول بعد، عليك أولاً توليد واحد مجانًا:"
+
+msgid "- Go to https://genius.com and sign up"
+msgstr "- اذهب إلى https://genius.com وقم بالتسجيل (إذا كنت مستخدمًا جديدًا)"
+
+msgid "- Go to https://genius.com/api-clients/new/"
+msgstr "- اذهب إلى https://genius.com/api-clients/new/"
+
+msgid "- Populate the fields. Some fields are mandatory, others are not"
+msgstr "- املأ الحقول. بعض الحقول إلزامية والبعض الآخر ليس كذلك"
+
+msgid "After populating the fields:"
+msgstr "بعد ملء الحقول:"
+
+msgid "- Click on 'Generate Access Token'"
+msgstr "- اضغط على 'توليد رمز الوصول'"
+
+msgid "- Copy and paste the newly generated access token to:"
+msgstr "- انسخ والصق رمز الوصول الذي تم توليده حديثًا في:"
+
+msgid "/etc/enigma2/fnc/AirNet-FNC/lyrics_token.txt"
+msgstr "/etc/enigma2/fnc/AirNet-FNC/lyrics_token.txt"
+
+msgid "- Save and restart E2"
+msgstr "- احفظ الملف وأعد تشغيل E2"
+
+msgid "Searching for lyrics for the current song, please wait a few seconds..."
+msgstr "جارٍ البحث عن كلمات الأغاني للأغنية الحالية، الرجاء الانتظار بضع ثوانٍ..."
+
+msgid "Error: Received status code "
+msgstr "خطأ: تم استلام رمز الحالة "
+
+msgid "The server took too long to respond. Check your internet connection if the issue persists."
+msgstr "استغرق الخادم وقتًا طويلاً للرد. تحقق من اتصال الإنترنت إذا استمر المشكلة."
+
+msgid "Network error."
+msgstr "خطأ في الشبكة."
+
+msgid "The server might be down, or there could be an issue with your internet connection."
+msgstr "قد يكون الخادم غير متاح أو قد يكون هناك مشكلة في اتصال الإنترنت الخاص بك."
+
+msgid "An unexpected error occurred while making the request."
+msgstr "حدث خطأ غير متوقع أثناء تقديم الطلب."
+
+msgid "It seems that no lyrics are available for the current song. You can continue to enjoy the live stream!"
+msgstr "يبدو أنه لا توجد كلمات أغاني متاحة للأغنية الحالية. يمكنك الاستمرار في الاستمتاع بالبث المباشر!"
+
+msgid "The lyrics will be automatically updated when the next song plays."
+msgstr "سيتم تحديث كلمات الأغاني تلقائيًا عندما تبدأ الأغنية التالية."
+
+msgid "You can stay on this screen, and as soon as the new song's lyrics are available, they will be displayed here."
+msgstr "يمكنك البقاء على هذه الشاشة، وأيضًا بمجرد أن تصبح كلمات الأغنية الجديدة متاحة، سيتم عرضها هنا."
+
+msgid "Please note, despite using one of the world's largest lyrics databases, it is sometimes impossible to find the exact lyrics among billions of songs, especially with different song name variations."
+msgstr "يرجى ملاحظة أنه رغم استخدامنا لأحد أكبر قواعد بيانات كلمات الأغاني في العالم، في بعض الأحيان يكون من المستحيل العثور على الكلمات الدقيقة بين مليارات الأغاني، خاصة مع اختلاف تسميات الأغاني."
+
+msgid "Export..."
+msgstr "تصدير..."
+
+msgid "Lyrics exported successfully."
+msgstr "تم تصدير كلمات الأغاني بنجاح."
+
+msgid "Support Our Work and Unlock Exclusive Features!"
+msgstr "ادعم عملنا وفتح الميزات الحصرية!"
+
+msgid ""
+"Thank you for using our free software! Your support helps us continue developing and maintaining our projects, covering server costs, and delivering a great experience. By donating, you not only help sustain our work but also gain access to exclusive features available only to our supporters.\n"
+"\n"
+"Here's how you can donate:\n"
+"\n"
+"Visit our donation page at"
+msgstr ""
+"شكرًا لاستخدامك برنامجنا المجاني! دعمك يساعدنا في الاستمرار في تطوير وصيانة مشاريعنا، وتغطية تكاليف الخادم، وتقديم تجربة رائعة. من خلال التبرع، أنت لا تساعد فقط في الحفاظ على عملنا ولكن أيضًا تحصل على الوصول إلى الميزات الحصرية المتاحة فقط لداعمينا.\n"
+"\n"
+"إليك كيفية التبرع:\n"
+"\n"
+"زر موقع التبرع لدينا على"
+
+msgid ""
+"Contribute any amount you feel comfortable with.\n"
+"When donating, please enter name and your unique KUD number into message box. ENSURE you check the 'PRIVATE MESSAGE' box when sending. (Your KUD must remain private).\n"
+"\n"
+"Once we verify your donation, we’ll grant you access to features that are reserved for our valued supporters. It’s our way of saying thank you for your contribution!\n"
+"\n"
+"Ready to support us?\n"
+"Donate Now!\n"
+"\n"
+"Your support makes a big difference. Thank you for helping us keep our projects alive and thriving!"
+msgstr ""
+"ساهم بأي مبلغ تشعر بالراحة معه.\n"
+"عند التبرع، يرجى إدخال الاسم ورقم KUD الفريد الخاص بك في مربع الرسالة. تأكد من تحديد مربع 'الرسالة الخاصة' عند الإرسال. (يجب أن يظل KUD الخاص بك خاصًا).\n"
+"\n"
+"بمجرد التحقق من تبرعك، سنمنحك الوصول إلى الميزات المخصصة لداعمينا الأعزاء. إنها طريقتنا في شكر مساهمتك!\n"
+"\n"
+"هل أنت مستعد لدعمنا؟\n"
+"تبرع الآن!\n"
+"\n"
+"دعمك يحدث فرقًا كبيرًا. شكرًا لمساعدتنا في إبقاء مشاريعنا حية ومزدهرة!"
+
+msgid "Export"
+msgstr "تصدير"
+
+msgid "as"
+msgstr "كـ"
+
+msgid "Mising '/etc/enigma2/bouquets.tv'. Please install some list first, after that try again."
+msgstr "الملف '/etc/enigma2/bouquets.tv' مفقود. يرجى تثبيت بعض القوائم أولاً، ثم المحاولة مرة أخرى."
+
+msgid "M3U exported successfully."
+msgstr "تم تصدير M3U بنجاح."
+
+msgid "PLS exported successfully."
+msgstr "تم تصدير PLS بنجاح."
+
+msgid "XSPF exported successfully."
+msgstr "تم تصدير XSPF بنجاح."
+
+msgid "ASX exported successfully."
+msgstr "تم تصدير ASX بنجاح."
+
+msgid "Export to enigma2 bouquet"
+msgstr "تصدير إلى باقة Enigma2"
+
+msgid "Export as M3U"
+msgstr "تصدير كـ M3U"
+
+msgid "Export as PLS"
+msgstr "تصدير كـ PLS"
+
+msgid "Export as XSPF"
+msgstr "تصدير كـ XSPF"
+
+msgid "Export as ASX"
+msgstr "تصدير كـ ASX"
+
+msgid "Record"
+msgstr "تسجيل"
+
+msgid "Please start playing the stream before attempting to record."
+msgstr "يرجى البدء في تشغيل البث قبل محاولة التسجيل."
+
+msgid "HLS stream recording is under development and will be available soon."
+msgstr "تسجيل تدفقات HLS قيد التطوير وسيكون متاحًا قريبًا."
+
+msgid "A recording is currently in progress."
+msgstr "التسجيل جارٍ حاليًا."
+
+msgid "Please stop the current recording before starting a new one."
+msgstr "يرجى إيقاف التسجيل الحالي قبل بدء تسجيل جديد."
+
+msgid "An error occurred while checking the stream for"
+msgstr "حدث خطأ أثناء فحص البث لـ"
+
+msgid "An unexpected error occurred while checking the stream for"
+msgstr "حدث خطأ غير متوقع أثناء فحص البث لـ"
+
+msgid "You have only"
+msgstr "لديك فقط"
+
+msgid "of free space left on"
+msgstr "من المساحة الحرة المتبقية على"
+
+msgid "Please change your 'Storage path' in Settings and select one with more free space to continue recording."
+msgstr "يرجى تغيير 'مسار التخزين' في الإعدادات واختيار واحد يحتوي على المزيد من المساحة الحرة للاستمرار في التسجيل."
+
+msgid "Read-only device!"
+msgstr "الجهاز للقراءة فقط!"
+
+msgid "Please check device access or change the 'Storage path' in Settings to continue recording."
+msgstr "يرجى التحقق من وصول الجهاز أو تغيير 'مسار التخزين' في الإعدادات للاستمرار في التسجيل."
+
+msgid "Destination"
+msgstr "وجهة"
+
+msgid "Destination already exists"
+msgstr "الوجهة موجودة بالفعل"
+
+msgid "Do you want to overwrite it?"
+msgstr "هل تريد الكتابة فوقه؟"
+
+msgid "Recording started in the background in TIMING mode."
+msgstr "بدأ التسجيل في الخلفية في وضع التوقيت."
+
+msgid "Station"
+msgstr "محطة"
+
+msgid "Recording duration"
+msgstr "مدة التسجيل"
+
+msgid "Feel free to close the plugin and continue watching TV, listening to another station, or doing anything else you like."
+msgstr "لا تتردد في إغلاق الإضافة والاستمرار في مشاهدة التلفزيون أو الاستماع إلى محطة أخرى أو القيام بأي شيء آخر تحب."
+
+msgid "The recording will automatically stop after the specified duration. You can also stop it manually at any time by opening the plugin again and pressing the Stop button."
+msgstr "سيتوقف التسجيل تلقائيًا بعد المدة المحددة. يمكنك أيضًا إيقافه يدويًا في أي وقت عن طريق فتح الإضافة مرة أخرى والضغط على زر الإيقاف."
+
+msgid "Make sure you have enough free disk space in 'Storage path'."
+msgstr "تأكد من وجود مساحة كافية على القرص في 'مسار التخزين'."
+
+msgid "Recording started in the background in INDEFINITE mode."
+msgstr "بدأ التسجيل في الخلفية في وضع غير محدود."
+
+msgid "If you want to stop the recording process at any time, open the plugin again and press the Stop button."
+msgstr "إذا كنت تريد إيقاف عملية التسجيل في أي وقت، افتح الإضافة مرة أخرى واضغط على زر الإيقاف."
+
+msgid "Are you sure you want to stop the current recording?"
+msgstr "هل أنت متأكد أنك تريد إيقاف التسجيل الحالي؟"
+
+msgid "for recording, media..."
+msgstr "للتسجيل، الوسائط..."
+
+msgid "Recording"
+msgstr "تسجيل"
+
+msgid "Select recording duration"
+msgstr "اختر مدة التسجيل"
+
+msgid "Show Start Message Info"
+msgstr "عرض رسالة البداية"
+
+msgid "Recording SUCCESSFULLY finished."
+msgstr "تم إنهاء التسجيل بنجاح."
+
+msgid "An unexpected error occurred."
+msgstr "حدث خطأ غير متوقع"
+
+msgid "Error while recording."
+msgstr "خطأ أثناء التسجيل"
+
+msgid "Indefinitely"
+msgstr "بدون وقت محدد"
+
+msgid "5 min."
+msgstr "5 دقائق"
+
+msgid "10 min."
+msgstr "10 دقائق"
+
+msgid "20 min."
+msgstr "20 دقيقة"
+
+msgid "30 min."
+msgstr "30 دقيقة"
+
+msgid "40 min."
+msgstr "40 دقيقة"
+
+msgid "50 min."
+msgstr "50 دقيقة"
+
+msgid "1 hour"
+msgstr "1 ساعة"
+
+msgid "2 hours"
+msgstr "ساعتان"
+
+msgid "3 hours"
+msgstr "3 ساعات"
+
+msgid "4 hours"
+msgstr "4 ساعات"
+
+msgid "5 hours"
+msgstr "5 ساعات"
+
+msgid "6 hours"
+msgstr "6 ساعات"
+
+msgid "7 hours"
+msgstr "7 ساعات"
+
+msgid "8 hours"
+msgstr "8 ساعات"
+
+msgid "9 hours"
+msgstr "9 ساعات"
+
+msgid "10 hours"
+msgstr "10 ساعات"
+
+msgid "11 hours"
+msgstr "11 ساعة"
+
+msgid "12 hours"
+msgstr "12 ساعة"
+
+msgid "13 hours"
+msgstr "13 ساعة"
+
+msgid "14 hours"
+msgstr "14 ساعة"
+
+msgid "15 hours"
+msgstr "15 ساعة"
+
+msgid "16 hours"
+msgstr "16 ساعة"
+
+msgid "17 hours"
+msgstr "17 ساعة"
+
+msgid "18 hours"
+msgstr "18 ساعة"
+
+msgid "19 hours"
+msgstr "19 ساعة"
+
+msgid "20 hours"
+msgstr "20 ساعة"
+
+msgid "21 hours"
+msgstr "21 ساعة"
+
+msgid "22 hours"
+msgstr "22 ساعة"
+
+msgid "23 hours"
+msgstr "23 ساعة"
+
+msgid "24 hours"
+msgstr "24 ساعة"
+
+msgid "Starting"
+msgstr "بدء"
+
+msgid "Stopped"
+msgstr "موقوف"
+
+msgid "In progress"
+msgstr "قيد التقدم"
+
+msgid "Connection to server lost."
+msgstr "تم قطع الاتصال بالخادم."
+
+msgid "Error writing chunk."
+msgstr "خطأ في كتابة الجزء."
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Error status code."
+msgstr "رمز حالة الخطأ"
+
+msgid "No active recording to stop or ID mismatch."
+msgstr "لا يوجد تسجيل نشط للإيقاف أو تعارض في المعرف"
+
+msgid "Unknown Error"
+msgstr "خطأ غير معروف"
+
+msgid "Artist/Song Info"
+msgstr "معلومات الفنان/الأغنية"

@@ -1,0 +1,848 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-05 16:46+0100\n"
+"PO-Revision-Date: 2025-01-20 01:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Access over 60,000 broadcasters from the world"
+msgstr "Slušaj preko 60.000 radio stanica iz celog sveta"
+
+msgid "Thank you for using"
+msgstr "Hvala što koristiš"
+
+msgid "If you find it useful, please consider donating to support further development. Every bit helps!"
+msgstr "Ako ti je plugin od koristi, razmisli o donaciji za podršku daljem razvoju. Svaka donacija pomaže!"
+
+msgid "This message will not appear again. For more information, click the blue button below."
+msgstr "Ova poruka se više neće prikazivati. Za više informacija klikni plavo dugme ispod."
+
+msgid "1 sec."
+msgstr ""
+
+msgid "2 sec."
+msgstr ""
+
+msgid "3 sec."
+msgstr ""
+
+msgid "4 sec."
+msgstr ""
+
+msgid "5 sec."
+msgstr ""
+
+msgid "10 sec."
+msgstr ""
+
+msgid "20 sec."
+msgstr ""
+
+msgid "30 sec."
+msgstr ""
+
+msgid "40 sec."
+msgstr ""
+
+msgid "50 sec."
+msgstr ""
+
+msgid "60 sec."
+msgstr ""
+
+msgid "Name"
+msgstr "Nazivu"
+
+msgid "Click Count"
+msgstr "Broj Klikova"
+
+msgid "1000000"
+msgstr "1000000"
+
+msgid "Disable"
+msgstr "Isključi"
+
+msgid "6 sec."
+msgstr ""
+
+msgid "7 sec."
+msgstr ""
+
+msgid "8 sec."
+msgstr ""
+
+msgid "9 sec."
+msgstr ""
+
+msgid "11 sec."
+msgstr ""
+
+msgid "12 sec."
+msgstr ""
+
+msgid "13 sec."
+msgstr ""
+
+msgid "14 sec."
+msgstr ""
+
+msgid "15 sec."
+msgstr ""
+
+msgid "16 sec."
+msgstr ""
+
+msgid "17 sec."
+msgstr ""
+
+msgid "18 sec."
+msgstr ""
+
+msgid "19 sec."
+msgstr ""
+
+msgid "25 sec."
+msgstr ""
+
+msgid "45 sec."
+msgstr ""
+
+msgid "gstreamer"
+msgstr ""
+
+msgid "gstplayer"
+msgstr ""
+
+msgid "exteplayer3"
+msgstr ""
+
+msgid "Random Dynamic Wallpapers"
+msgstr "Nasumične dinamičke pozadine"
+
+msgid "1 min."
+msgstr ""
+
+msgid "2 min."
+msgstr ""
+
+msgid "10%"
+msgstr ""
+
+msgid "20%"
+msgstr ""
+
+msgid "30%"
+msgstr ""
+
+msgid "40%"
+msgstr ""
+
+msgid "50%"
+msgstr ""
+
+msgid "60%"
+msgstr ""
+
+msgid "70%"
+msgstr ""
+
+msgid "80%"
+msgstr ""
+
+msgid "90%"
+msgstr ""
+
+msgid "100%"
+msgstr ""
+
+msgid "Save"
+msgstr "Spremi"
+
+msgid "Exit"
+msgstr "Izlaz"
+
+msgid "Defaults"
+msgstr "Podrazumevano"
+
+msgid "Config"
+msgstr "Konfiguracija"
+
+msgid "Main"
+msgstr "Osnovno"
+
+msgid "Show in Main Menu"
+msgstr "Prikaži u glavnom meniju"
+
+msgid "Show in Plugin List"
+msgstr "Prikaži u listi pluginova"
+
+msgid "Show in Extension List"
+msgstr "Prikaži u listi proširenja (obično plavo dugme)"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Sort Stations by"
+msgstr "Sortiraj stanice po"
+
+msgid "Stations per Page"
+msgstr "Stanica po stranici"
+
+msgid "Hide Broken Stations"
+msgstr "Sakrij neispravne stanice"
+
+msgid "Download Station Logo (if exists)"
+msgstr "Preuzmi logo stanice (ako postoji)"
+
+msgid "Refresh Metadata every"
+msgstr "Osveži metapodatke svakih"
+
+msgid "Start Visualization after"
+msgstr "Pokreni vizualizaciju nakon"
+
+msgid "Visualization Type"
+msgstr "Vrsta vizualizacije"
+
+msgid "Dynamic Wallpapers Duration"
+msgstr "Trajanje dinamičkih pozadina"
+
+msgid "Show Duration Progress"
+msgstr "Prikaži napredak trajanja"
+
+msgid "Image Quality"
+msgstr "Kvalitet slike"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Translate Artist Biography"
+msgstr "Prevedi biografiju umetnika"
+
+msgid "Player (some stations require a different player)"
+msgstr "Player (neke stanice zahtevaju drugačiji player)"
+
+msgid "My Own"
+msgstr "Moj Lični"
+
+msgid "Predefined"
+msgstr "Predefinisano"
+
+msgid "Paths"
+msgstr "Putanje"
+
+msgid "Temporary path"
+msgstr "Privremena putanja"
+
+msgid "Connection"
+msgstr "Veza"
+
+msgid "General Timeout"
+msgstr "Generalni Timeout"
+
+msgid "Small Timeout"
+msgstr "Mali Timeout"
+
+msgid "ATTENTION: PLUGIN HIDDEN!"
+msgstr "PAŽNJA: PLUGIN JE SAKRIVEN!"
+
+msgid "Consequently"
+msgstr "Shodno tome"
+
+msgid "the plugin will no longer be able to start."
+msgstr "plugin više neće moći da se pokrene."
+
+msgid "Please ensure that you enable it in at least one list."
+msgstr "Pobrini se da ga omogućiš na barem jednom spisku."
+
+msgid "Saved"
+msgstr "Sačuvano"
+
+msgid "You need to"
+msgstr "Moraš"
+
+msgid "restart ENIGMA2"
+msgstr "restartovati ENIGMA2"
+
+msgid "to apply changes."
+msgstr "da bi promene bile primenjene."
+
+msgid "Restart now?"
+msgstr "Restartuj odmah?"
+
+msgid "restart PLUGIN"
+msgstr "ponovo pokrenuti PLUGIN"
+
+msgid "Config successfully saved."
+msgstr "Konfiguracija je uspešno sačuvana."
+
+msgid "Information"
+msgstr "Info"
+
+msgid "Collecting data"
+msgstr "Prikupljanje podataka"
+
+msgid "Wait...."
+msgstr "Sačekaj..."
+
+msgid "Credits"
+msgstr "Zasluge"
+
+msgid "Menu"
+msgstr "Meni (Menu)"
+
+msgid "Music plugin to access over 60,000 international radio broadcasters from the world."
+msgstr "Muzicki dodatak za pristup preko 60.000 međunarodnih radijskih stanica iz celog sveta."
+
+msgid "Browse stations by genre, country, tag and language."
+msgstr "Pretražuj stanice po žanru, zemlji, oznaci i jeziku."
+
+msgid "Favorites"
+msgstr "Favoriti"
+
+msgid "Recommendations"
+msgstr "Preporuke"
+
+msgid "My Country"
+msgstr "Moja zemlja"
+
+msgid "Top 100 (by clicks)"
+msgstr "Top 100 (po klikovima)"
+
+msgid "Top 100 (by votes)"
+msgstr "Top 100 (po glasovima)"
+
+msgid "By Genre"
+msgstr "Po žanrovima"
+
+msgid "By Country"
+msgstr "Po zemljama"
+
+msgid "By Tags"
+msgstr "Po oznakama"
+
+msgid "By Language"
+msgstr "Po jezicima"
+
+msgid "Search"
+msgstr "Pretraga"
+
+msgid "Getting stations"
+msgstr "Tražim stanice"
+
+msgid "Please wait a moment..."
+msgstr "Sačekaj trenutak..."
+
+msgid "No Favorites yet. Add some first."
+msgstr "Još nema favorita. Dodaj neki prvi."
+
+msgid "Search Station"
+msgstr "Pretraži stanicu"
+
+msgid "Do you like it? If so, please consider donating"
+msgstr "Da li ti se sviđa? Ako da, razmisli o donaciji"
+
+msgid "Press 'Yes' if you'd like to learn more about how your donation helps, and we'll provide instructions on how to donate."
+msgstr "Pritisni 'Da' ako želiš da saznaš više o tome kako tvoja donacija pomaže, i mi ćemo ti pružiti uputstva o tome kako donirati."
+
+msgid "These exclusive features are only available to donators and supporters."
+msgstr "Ove ekskluzivne funkcije su dostupne samo donatorima i korisnicima koji nas podržavaju."
+
+msgid "Press 'Yes' if you'd like to learn more about how to unlock these features and get instructions on how to become a supporter."
+msgstr "Pritisni 'Da' ako želiš da saznaš više o tome kako da otključaš ove funkcije i dobiješ uputstva o tome kako da postaneš podržavalac."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but all entries in the old file were invalid and could not be converted."
+msgstr "Pokušali smo da konvertujemo tvoje stare favorite u novi JSON format, ali svi unosi u staroj datoteci su bili nevalidni i nisu mogli biti konvertovani."
+
+msgid "We have tried to convert your old favorites to the new JSON format. Some entries"
+msgstr "Pokušali smo da konvertujemo tvoje stare favorite u novi JSON format. Neki unosi"
+
+msgid "in the old format were invalid and could not be converted. The valid entries have been converted."
+msgstr "u starom formatu su bili nevalidni i nisu mogli biti konvertovani. Validni unosi su konvertovani."
+
+msgid "Your favorites have been successfully converted to the new JSON format. This improves performance and reliability. No action is required from you."
+msgstr "Tvoji favoriti su uspešno konvertovani u novi JSON format. Ovo poboljšava performanse i pouzdanost. Nema potrebe za tvojim delovanjem."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but no valid entries were found in the old file."
+msgstr "Pokušali smo da konvertujemo tvoje stare favorite u novi JSON format, ali u staroj datoteci nisu pronađeni validni unosi."
+
+msgid "We have tried to convert your old favorites to the new JSON format, but an unexpected error occurred: "
+msgstr "Pokušali smo da konvertujemo tvoje stare favorite u novi JSON format, ali je došlo do neočekivane greške: "
+
+msgid "Browse by"
+msgstr "Pretražuj po"
+
+msgid "Genres"
+msgstr "Žanrovima"
+
+msgid "Countries"
+msgstr "Zemljama"
+
+msgid "Count"
+msgstr "Broj"
+
+msgid "CH +/- Sorting"
+msgstr "CH +/- Sortiranje"
+
+msgid "Export list..."
+msgstr "Izvezi listu..."
+
+msgid "Add to Service List"
+msgstr "Dodaj u listu servisa"
+
+msgid "Lyrics"
+msgstr "Stihovi"
+
+msgid "Stations"
+msgstr "Stanice"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgid "Country"
+msgstr "Zemlja"
+
+msgid "Lang"
+msgstr "Jezik"
+
+msgid "Genre"
+msgstr "Žanr"
+
+msgid "- FAV"
+msgstr "- FAV"
+
+msgid "+ FAV"
+msgstr "+ FAV"
+
+msgid "Please wait..."
+msgstr "Sačekaj..."
+
+msgid "Starting station"
+msgstr "Pokrećem stanicu"
+
+msgid "Error"
+msgstr "Greška"
+
+msgid "Can't connect to the server."
+msgstr "Ne mogu se povezati sa serverom."
+
+msgid "Server response"
+msgstr "Odgovor servera"
+
+msgid "from"
+msgstr "iz"
+
+msgid "already EXISTS in favorites"
+msgstr "već POSTOJI u favoritima"
+
+msgid "Success"
+msgstr "Uspeh"
+
+msgid "was ADDED to the favorites"
+msgstr "je DODAT u favorite"
+
+msgid "was REMOVED from the favorites"
+msgstr "je UKLONJEN iz favorita"
+
+msgid "updated"
+msgstr "ažuriran"
+
+msgid "created"
+msgstr "kreiran"
+
+msgid "Bouquet"
+msgstr "Buket"
+
+msgid "successfully."
+msgstr "uspešno."
+
+msgid "Album"
+msgstr "Album"
+
+msgid "Tags"
+msgstr "Oznake"
+
+msgid "No biography info"
+msgstr "Nema podataka o biografiji"
+
+msgid "Similar"
+msgstr "Slični"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "The lyrics access token provided is expired, revoked, malformed, or invalid for other reasons."
+msgstr "Token za pristup stihovima je istekao, opozvan, neispravan ili nevažeći iz drugih razloga."
+
+msgid "If you still don't have an access token, you need to generate one first, for free:"
+msgstr "Ako još nemaš token, moraš prvo da generišeš jedan, besplatno:"
+
+msgid "- Go to https://genius.com and sign up"
+msgstr "- Poseti https://genius.com i registruj se (ako si novi korisnik)"
+
+msgid "- Go to https://genius.com/api-clients/new/"
+msgstr "- Poseti https://genius.com/api-clients/new/"
+
+msgid "- Populate the fields. Some fields are mandatory, others are not"
+msgstr "- Popuni polja. Neka polja su obavezna, neka nisu"
+
+msgid "After populating the fields:"
+msgstr "Nakon popunjavanja obaveznih polja:"
+
+msgid "- Click on 'Generate Access Token'"
+msgstr "- Klikni na 'Generate Access Token'"
+
+msgid "- Copy and paste the newly generated access token to:"
+msgstr "- Kopiraj i zalepi novogenerisani token u:"
+
+msgid "/etc/enigma2/fnc/AirNet-FNC/lyrics_token.txt"
+msgstr "/etc/enigma2/fnc/AirNet-FNC/lyrics_token.txt"
+
+msgid "- Save and restart E2"
+msgstr "- Sačuvaj navedenu datoteku i ponovo pokreni E2"
+
+msgid "Searching for lyrics for the current song, please wait a few seconds..."
+msgstr "Tražim stihove za trenutnu pesmu, sačekaj nekoliko sekundi..."
+
+msgid "Error: Received status code "
+msgstr "Greška: Primljen status kod "
+
+msgid "The server took too long to respond. Check your internet connection if the issue persists."
+msgstr "Serveru je trebalo predugo da odgovori. Proveri internet vezu ako problem i dalje postoji."
+
+msgid "Network error."
+msgstr "Mrežna greška."
+
+msgid "The server might be down, or there could be an issue with your internet connection."
+msgstr "Server možda trenutno nije dostupan ili postoji problem sa internet vezom."
+
+msgid "An unexpected error occurred while making the request."
+msgstr "Došlo je do neočekivane greške prilikom slanja zahteva."
+
+msgid "It seems that no lyrics are available for the current song. You can continue to enjoy the live stream!"
+msgstr "Čini se da nema dostupnih stihova za trenutnu pesmu. Možeš nastaviti da uživaš u live stream-u!"
+
+msgid "The lyrics will be automatically updated when the next song plays."
+msgstr "Stihovi će se automatski ažurirati kada počne sledeća pesma."
+
+msgid "You can stay on this screen, and as soon as the new song's lyrics are available, they will be displayed here."
+msgstr "Možeš ostati na ovom ekranu i čim stihovi nove pesme budu dostupni, biće prikazani ovde."
+
+msgid "Please note, despite using one of the world's largest lyrics databases, it is sometimes impossible to find the exact lyrics among billions of songs, especially with different song name variations."
+msgstr "Imaj na umu, uprkos korišćenju jedne od najvećih baza podataka stihova na svetu, ponekad je nemoguće pronaći tačne stihove među milijardama pesama, posebno sa različitim varijacijama imena pesama."
+
+msgid "Export..."
+msgstr "Izvezi..."
+
+msgid "Lyrics exported successfully."
+msgstr "Stihovi uspešno izvezeni."
+
+msgid "Support Our Work and Unlock Exclusive Features!"
+msgstr "Podrži naš rad i otključaš ekskluzivne funkcije!"
+
+msgid ""
+"Thank you for using our free software! Your support helps us continue developing and maintaining our projects, covering server costs, and delivering a great experience. By donating, you not only help sustain our work but also gain access to exclusive features available only to our supporters.\n"
+"\n"
+"Here's how you can donate:\n"
+"\n"
+"Visit our donation page at"
+msgstr ""
+"Hvala što koristiš naš besplatan softver! Tvoja podrška pomaže nam da nastavimo da razvijamo i održavamo naše projekte, pokrivamo troškove servera i pružamo odlično iskustvo. Doniranjem ne samo da pomažeš u održavanju našeg rada, već i dobijaš pristup ekskluzivnim funkcijama dostupnim samo našim donatorima.\n"
+"\n"
+"Evo kako možeš donirati:\n"
+"\n"
+"Poseti našu stranicu za donacije na"
+
+msgid ""
+"Contribute any amount you feel comfortable with.\n"
+"When donating, please enter name and your unique KUD number into message box. ENSURE you check the 'PRIVATE MESSAGE' box when sending. (Your KUD must remain private).\n"
+"\n"
+"Once we verify your donation, we’ll grant you access to features that are reserved for our valued supporters. It’s our way of saying thank you for your contribution!\n"
+"\n"
+"Ready to support us?\n"
+"Donate Now!\n"
+"\n"
+"Your support makes a big difference. Thank you for helping us keep our projects alive and thriving!"
+msgstr ""
+"Doprinesi bilo kojim iznosom s kojim se osećaš ugodno.\n"
+"Prilikom doniranja, unesi ime ili nadimak i svoj jedinstveni KUD broj u polje za poruku. OBAVEZNO označi polje 'PRIVATNA PORUKA' prilikom slanja. (Tvoj KUD mora ostati privatan).\n"
+"\n"
+"Kada potvrdimo tvoju donaciju, omogućićemo ti pristup funkcijama koje su rezervisane za naše cenjene donatore. To je naš način da ti se zahvalimo na doprinosu!\n"
+"\n"
+"Spreman da nas podržiš?\n"
+"Doniraj sada!\n"
+"\n"
+"Tvoja podrška čini veliku razliku. Hvala što pomažeš da naši projekti ostanu živi i uspešni!"
+
+msgid "Export"
+msgstr "Izvezi"
+
+msgid "as"
+msgstr "kao"
+
+msgid "Mising '/etc/enigma2/bouquets.tv'. Please install some list first, after that try again."
+msgstr "Nedostaje '/etc/enigma2/bouquets.tv'. Instaliraj neku listu prvo, pa pokušaj ponovo."
+
+msgid "M3U exported successfully."
+msgstr "M3U uspešno izvezen."
+
+msgid "PLS exported successfully."
+msgstr "PLS uspešno izvezen."
+
+msgid "XSPF exported successfully."
+msgstr "XSPF uspešno izvezen."
+
+msgid "ASX exported successfully."
+msgstr "ASX uspešno izvezen."
+
+msgid "Export to enigma2 bouquet"
+msgstr "Izvoz u Enigma2 listu kanala"
+
+msgid "Export as M3U"
+msgstr "Izvoz kao M3U"
+
+msgid "Export as PLS"
+msgstr "Izvoz kao PLS"
+
+msgid "Export as XSPF"
+msgstr "Izvoz kao XSPF"
+
+msgid "Export as ASX"
+msgstr "Izvoz kao ASX"
+
+msgid "Record"
+msgstr "Snimaj"
+
+msgid "Please start playing the stream before attempting to record."
+msgstr "Pokreni reprodukciju stream-a pre nego što pokušaš da snimaš."
+
+msgid "HLS stream recording is under development and will be available soon."
+msgstr "Snimanje HLS strimova je u razvoju i biće dostupno uskoro."
+
+msgid "A recording is currently in progress."
+msgstr "Snimanje je trenutno u toku."
+
+msgid "Please stop the current recording before starting a new one."
+msgstr "Zaustavi trenutno snimanje pre nego što započneš novo."
+
+msgid "An error occurred while checking the stream for"
+msgstr "Došlo je do greške prilikom provere stream-a za"
+
+msgid "An unexpected error occurred while checking the stream for"
+msgstr "Došlo je do neočekivane greške prilikom provere stream-a za"
+
+msgid "You have only"
+msgstr "Imaš samo"
+
+msgid "of free space left on"
+msgstr "slobodnog prostora na"
+
+msgid "Please change your 'Storage path' in Settings and select one with more free space to continue recording."
+msgstr "Promeni 'Storage path' u Postavkama i odaberi onaj sa više slobodnog prostora da bi nastavio snimanje."
+
+msgid "Read-only device!"
+msgstr "Uređaj je samo za čitanje!"
+
+msgid "Please check device access or change the 'Storage path' in Settings to continue recording."
+msgstr "Proveri pristup uređaju ili promeni 'Storage path' u Postavkama da bi nastavio snimanje."
+
+msgid "Destination"
+msgstr "Odredište"
+
+msgid "Destination already exists"
+msgstr "Odredište već postoji"
+
+msgid "Do you want to overwrite it?"
+msgstr "Želiš li da ga pregaziš?"
+
+msgid "Recording started in the background in TIMING mode."
+msgstr "Snimanje je započeto u pozadini u VREMENSKOM načinu."
+
+msgid "Station"
+msgstr "Stanica"
+
+msgid "Recording duration"
+msgstr "Trajanje snimanja"
+
+msgid "Feel free to close the plugin and continue watching TV, listening to another station, or doing anything else you like."
+msgstr "Slobodno zatvori plugin i nastavi da gledaš TV, slušaš drugu stanicu, ili radiš bilo šta drugo što želiš."
+
+msgid "The recording will automatically stop after the specified duration. You can also stop it manually at any time by opening the plugin again and pressing the Stop button."
+msgstr "Snimanje će se automatski zaustaviti nakon određenog vremena. Takođe, možeš ga ručno zaustaviti u bilo kom trenutku otvaranjem plugina i pritiskanjem na dugme Stop."
+
+msgid "Make sure you have enough free disk space in 'Storage path'."
+msgstr "Proveri da li imaš dovoljno slobodnog prostora na 'Storage path'."
+
+msgid "Recording started in the background in INDEFINITE mode."
+msgstr "Snimanje je započeto u pozadini BEZ VREMENSKOG OGRANIČENJA."
+
+msgid "If you want to stop the recording process at any time, open the plugin again and press the Stop button."
+msgstr "Ako želiš da zaustaviš snimanje u bilo kom trenutku, ponovo otvori plugin i pritisni dugme Stop."
+
+msgid "Are you sure you want to stop the current recording?"
+msgstr "Da li si siguran da želiš da zaustaviš trenutno snimanje?"
+
+msgid "for recording, media..."
+msgstr "za snimanje, medije..."
+
+msgid "Recording"
+msgstr "Snimanje"
+
+msgid "Select recording duration"
+msgstr "Odaberi trajanje snimanja"
+
+msgid "Show Start Message Info"
+msgstr "Prikaži startnu Info poruku"
+
+msgid "Recording SUCCESSFULLY finished."
+msgstr "Snimanje JE USPEŠNO završeno."
+
+msgid "An unexpected error occurred."
+msgstr "Došlo je do neočekivane greške."
+
+msgid "Error while recording."
+msgstr "Greška prilikom snimanja."
+
+msgid "Indefinitely"
+msgstr "Bez vremenskog ograničenja"
+
+msgid "5 min."
+msgstr "5 min."
+
+msgid "10 min."
+msgstr "10 min."
+
+msgid "20 min."
+msgstr "20 min."
+
+msgid "30 min."
+msgstr "30 min."
+
+msgid "40 min."
+msgstr "40 min."
+
+msgid "50 min."
+msgstr "50 min."
+
+msgid "1 hour"
+msgstr "1 čas"
+
+msgid "2 hours"
+msgstr "2 časa"
+
+msgid "3 hours"
+msgstr "3 časa"
+
+msgid "4 hours"
+msgstr "4 časa"
+
+msgid "5 hours"
+msgstr "5 časova"
+
+msgid "6 hours"
+msgstr "6 časova"
+
+msgid "7 hours"
+msgstr "7 časova"
+
+msgid "8 hours"
+msgstr "8 časova"
+
+msgid "9 hours"
+msgstr "9 časova"
+
+msgid "10 hours"
+msgstr "10 časova"
+
+msgid "11 hours"
+msgstr "11 časova"
+
+msgid "12 hours"
+msgstr "12 časova"
+
+msgid "13 hours"
+msgstr "13 časova"
+
+msgid "14 hours"
+msgstr "14 časova"
+
+msgid "15 hours"
+msgstr "15 časova"
+
+msgid "16 hours"
+msgstr "16 časova"
+
+msgid "17 hours"
+msgstr "17 časova"
+
+msgid "18 hours"
+msgstr "18 časova"
+
+msgid "19 hours"
+msgstr "19 časova"
+
+msgid "20 hours"
+msgstr "20 časova"
+
+msgid "21 hours"
+msgstr "21 čas"
+
+msgid "22 hours"
+msgstr "22 časa"
+
+msgid "23 hours"
+msgstr "23 časa"
+
+msgid "24 hours"
+msgstr "24 časa"
+
+msgid "Starting"
+msgstr "Pokrećem"
+
+msgid "Stopped"
+msgstr "Zaustavljeno"
+
+msgid "In progress"
+msgstr "U toku"
+
+msgid "Connection to server lost."
+msgstr "Veza sa serverom je prekinuta."
+
+msgid "Error writing chunk."
+msgstr "Greška pri pisanju chunk-a."
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Error status code."
+msgstr "Kod greške statusa."
+
+msgid "No active recording to stop or ID mismatch."
+msgstr "Nema aktivnog snimanja za zaustaviti ili pogrešan ID-a."
+
+msgid "Unknown Error."
+msgstr "Nepoznata greška."
+
+msgid "Artist/Song Info"
+msgstr "Izvođač/pesma Info"

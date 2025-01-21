@@ -1,0 +1,865 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-05 22:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Access over 60,000 broadcasters from the world"
+msgstr ""
+
+msgid "Thank you for using"
+msgstr ""
+
+msgid "If you find it useful, please consider donating to support further development. Every bit helps!"
+msgstr ""
+
+msgid "This message will not appear again. For more information, click the blue button below."
+msgstr ""
+
+msgid "1 sec."
+msgstr ""
+
+msgid "2 sec."
+msgstr ""
+
+msgid "3 sec."
+msgstr ""
+
+msgid "4 sec."
+msgstr ""
+
+msgid "5 sec."
+msgstr ""
+
+msgid "10 sec."
+msgstr ""
+
+msgid "20 sec."
+msgstr ""
+
+msgid "30 sec."
+msgstr ""
+
+msgid "40 sec."
+msgstr ""
+
+msgid "50 sec."
+msgstr ""
+
+msgid "60 sec."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Click Count"
+msgstr ""
+
+msgid "1000000"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "6 sec."
+msgstr ""
+
+msgid "7 sec."
+msgstr ""
+
+msgid "8 sec."
+msgstr ""
+
+msgid "9 sec."
+msgstr ""
+
+msgid "11 sec."
+msgstr ""
+
+msgid "12 sec."
+msgstr ""
+
+msgid "13 sec."
+msgstr ""
+
+msgid "14 sec."
+msgstr ""
+
+msgid "15 sec."
+msgstr ""
+
+msgid "16 sec."
+msgstr ""
+
+msgid "17 sec."
+msgstr ""
+
+msgid "18 sec."
+msgstr ""
+
+msgid "19 sec."
+msgstr ""
+
+msgid "25 sec."
+msgstr ""
+
+msgid "45 sec."
+msgstr ""
+
+msgid "gstreamer"
+msgstr ""
+
+msgid "gstplayer"
+msgstr ""
+
+msgid "exteplayer3"
+msgstr ""
+
+msgid "Random Dynamic Wallpapers"
+msgstr ""
+
+msgid "1 min."
+msgstr ""
+
+msgid "2 min."
+msgstr ""
+
+msgid "10%"
+msgstr ""
+
+msgid "20%"
+msgstr ""
+
+msgid "30%"
+msgstr ""
+
+msgid "40%"
+msgstr ""
+
+msgid "50%"
+msgstr ""
+
+msgid "60%"
+msgstr ""
+
+msgid "70%"
+msgstr ""
+
+msgid "80%"
+msgstr ""
+
+msgid "90%"
+msgstr ""
+
+msgid "100%"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Defaults"
+msgstr ""
+
+msgid "Config"
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Show in Main Menu"
+msgstr ""
+
+msgid "Show in Plugin List"
+msgstr ""
+
+msgid "Show in Extension List"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Sort Stations by"
+msgstr ""
+
+msgid "Stations per Page"
+msgstr ""
+
+msgid "Hide Broken Stations"
+msgstr ""
+
+msgid "Download Station Logo (if exists)"
+msgstr ""
+
+msgid "Refresh Metadata every"
+msgstr ""
+
+msgid "Start Visualization after"
+msgstr ""
+
+msgid "Visualization Type"
+msgstr ""
+
+msgid "Dynamic Wallpapers Duration"
+msgstr ""
+
+msgid "Show Duration Progress"
+msgstr ""
+
+msgid "Image Quality"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Translate Artist Biography"
+msgstr ""
+
+msgid "Player (some stations require a different player)"
+msgstr ""
+
+msgid "My Own"
+msgstr ""
+
+msgid "Predefined"
+msgstr ""
+
+msgid "Paths"
+msgstr ""
+
+msgid "Temporary path"
+msgstr ""
+
+msgid "Connection"
+msgstr ""
+
+msgid "General Timeout"
+msgstr ""
+
+msgid "Small Timeout"
+msgstr ""
+
+msgid "ATTENTION: PLUGIN HIDDEN!"
+msgstr ""
+
+msgid "Consequently"
+msgstr ""
+
+msgid "the plugin will no longer be able to start."
+msgstr ""
+
+msgid "Please ensure that you enable it in at least one list."
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "You need to"
+msgstr ""
+
+msgid "restart ENIGMA2"
+msgstr ""
+
+msgid "to apply changes."
+msgstr ""
+
+msgid "Restart now?"
+msgstr ""
+
+msgid "restart PLUGIN"
+msgstr ""
+
+msgid "Config successfully saved."
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Collecting data"
+msgstr ""
+
+msgid "Wait...."
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid ""
+"Music plugin to access over 60,000 international radio broadcasters from the "
+"world."
+msgstr ""
+
+msgid "Browse stations by genre, country, tag and language."
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "Recommendations"
+msgstr ""
+
+msgid "My Country"
+msgstr ""
+
+msgid "Top 100 (by clicks)"
+msgstr ""
+
+msgid "Top 100 (by votes)"
+msgstr ""
+
+msgid "By Genre"
+msgstr ""
+
+msgid "By Country"
+msgstr ""
+
+msgid "By Tags"
+msgstr ""
+
+msgid "By Language"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Getting stations"
+msgstr ""
+
+msgid "Please wait a moment..."
+msgstr ""
+
+msgid "No Favorites yet. Add some first."
+msgstr ""
+
+msgid "Search Station"
+msgstr ""
+
+msgid "Do you like it? If so, please consider donating"
+msgstr ""
+
+msgid "Press 'Yes' if you'd like to learn more about how your donation helps, and we'll provide instructions on how to donate."
+msgstr ""
+
+msgid "These exclusive features are only available to donators and supporters."
+msgstr ""
+
+msgid "Press 'Yes' if you'd like to learn more about how to unlock these features and get instructions on how to become a supporter."
+msgstr ""
+
+msgid ""
+"We have tried to convert your old favorites to the new JSON format, but all "
+"entries in the old file were invalid and could not be converted."
+msgstr ""
+
+msgid ""
+"We have tried to convert your old favorites to the new JSON format. Some "
+"entries"
+msgstr ""
+
+msgid ""
+"in the old format were invalid and could not be converted. The valid entries "
+"have been converted."
+msgstr ""
+
+msgid ""
+"Your favorites have been successfully converted to the new JSON format. This "
+"improves performance and reliability. No action is required from you."
+msgstr ""
+
+msgid ""
+"We have tried to convert your old favorites to the new JSON format, but no "
+"valid entries were found in the old file."
+msgstr ""
+
+msgid ""
+"We have tried to convert your old favorites to the new JSON format, but an "
+"unexpected error occurred: "
+msgstr ""
+
+msgid "Browse by"
+msgstr ""
+
+msgid "Genres"
+msgstr ""
+
+msgid "Countries"
+msgstr ""
+
+msgid "Count"
+msgstr ""
+
+msgid "CH +/- Sorting"
+msgstr ""
+
+msgid "Export list..."
+msgstr ""
+
+msgid "Add to Service List"
+msgstr ""
+
+msgid "Lyrics"
+msgstr ""
+
+msgid "Stations"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Bitrate"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Lang"
+msgstr ""
+
+msgid "Genre"
+msgstr ""
+
+msgid "- FAV"
+msgstr ""
+
+msgid "+ FAV"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Starting station"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Can't connect to the server."
+msgstr ""
+
+msgid "Server response"
+msgstr ""
+
+msgid "from"
+msgstr ""
+
+msgid "already EXISTS in favorites"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "was ADDED to the favorites"
+msgstr ""
+
+msgid "was REMOVED from the favorites"
+msgstr ""
+
+msgid "updated"
+msgstr ""
+
+msgid "created"
+msgstr ""
+
+msgid "Bouquet"
+msgstr ""
+
+msgid "successfully."
+msgstr ""
+
+msgid "Album"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "No biography info"
+msgstr ""
+
+msgid "Similar"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid ""
+"The lyrics access token provided is expired, revoked, malformed, or invalid "
+"for other reasons."
+msgstr ""
+
+msgid ""
+"If you still don't have an access token, you need to generate one first, for "
+"free:"
+msgstr ""
+
+msgid "- Go to https://genius.com and sign up"
+msgstr ""
+
+msgid "- Go to https://genius.com/api-clients/new/"
+msgstr ""
+
+msgid "- Populate the fields. Some fields are mandatory, others are not"
+msgstr ""
+
+msgid "After populating the fields:"
+msgstr ""
+
+msgid "- Click on 'Generate Access Token'"
+msgstr ""
+
+msgid "- Copy and paste the newly generated access token to:"
+msgstr ""
+
+msgid "/etc/enigma2/fnc/AirNet-FNC/lyrics_token.txt"
+msgstr ""
+
+msgid "- Save and restart E2"
+msgstr ""
+
+msgid "Searching for lyrics for the current song, please wait a few seconds..."
+msgstr ""
+
+msgid "Error: Received status code "
+msgstr ""
+
+msgid ""
+"The server took too long to respond. Check your internet connection if the "
+"issue persists."
+msgstr ""
+
+msgid "Network error."
+msgstr ""
+
+msgid ""
+"The server might be down, or there could be an issue with your internet "
+"connection."
+msgstr ""
+
+msgid "An unexpected error occurred while making the request."
+msgstr ""
+
+msgid ""
+"It seems that no lyrics are available for the current song. You can continue "
+"to enjoy the live stream!"
+msgstr ""
+
+msgid "The lyrics will be automatically updated when the next song plays."
+msgstr ""
+
+msgid ""
+"You can stay on this screen, and as soon as the new song's lyrics are "
+"available, they will be displayed here."
+msgstr ""
+
+msgid ""
+"Please note, despite using one of the world's largest lyrics databases, it "
+"is sometimes impossible to find the exact lyrics among billions of songs, "
+"especially with different song name variations."
+msgstr ""
+
+msgid "Export..."
+msgstr ""
+
+msgid "Lyrics exported successfully."
+msgstr ""
+
+msgid "Support Our Work and Unlock Exclusive Features!"
+msgstr ""
+
+msgid ""
+"Thank you for using our free software! Your support helps us continue developing and maintaining our projects, covering server costs, and delivering a great experience. By donating, you not only help sustain our work but also gain access to exclusive features available only to our supporters.\n"
+"\n"
+"Here's how you can donate:\n"
+"\n"
+"Visit our donation page at"
+msgstr ""
+
+msgid ""
+"Contribute any amount you feel comfortable with.\n"
+"When donating, please enter name and your unique KUD number into message box. ENSURE you check the 'PRIVATE MESSAGE' box when sending. (Your KUD must remain private).\n"
+"\n"
+"Once we verify your donation, we’ll grant you access to features that are reserved for our valued supporters. It’s our way of saying thank you for your contribution!\n"
+"\n"
+"Ready to support us?\n"
+"Donate Now!\n"
+"\n"
+"Your support makes a big difference. Thank you for helping us keep our projects alive and thriving!"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "as"
+msgstr ""
+
+msgid "Mising '/etc/enigma2/bouquets.tv'. Please install some list first, after that try again."
+msgstr ""
+
+msgid "M3U exported successfully."
+msgstr ""
+
+msgid "PLS exported successfully."
+msgstr ""
+
+msgid "XSPF exported successfully."
+msgstr ""
+
+msgid "ASX exported successfully."
+msgstr ""
+
+msgid "Export to enigma2 bouquet"
+msgstr ""
+
+msgid "Export as M3U"
+msgstr ""
+
+msgid "Export as PLS"
+msgstr ""
+
+msgid "Export as XSPF"
+msgstr ""
+
+msgid "Export as ASX"
+msgstr ""
+
+msgid "Lyrics exported successfully."
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "Please start playing the stream before attempting to record."
+msgstr ""
+
+msgid "HLS stream recording is under development and will be available soon."
+msgstr ""
+
+msgid "A recording is currently in progress."
+msgstr ""
+
+msgid "Please stop the current recording before starting a new one."
+msgstr ""
+
+msgid "An error occurred while checking the stream for"
+msgstr ""
+
+msgid "An unexpected error occurred while checking the stream for"
+msgstr ""
+
+msgid "You have only"
+msgstr ""
+
+msgid "of free space left on"
+msgstr ""
+
+msgid "Please change your 'Storage path' in Settings and select one with more free space to continue recording."
+msgstr ""
+
+msgid "Read-only device!"
+msgstr ""
+
+msgid "Please check device access or change the 'Storage path' in Settings to continue recording."
+msgstr ""
+
+msgid "Destination"
+msgstr ""
+
+msgid "Destination already exists"
+msgstr ""
+
+msgid "Do you want to overwrite it?"
+msgstr ""
+
+msgid "Recording started in the background in TIMING mode."
+msgstr ""
+
+msgid "Station"
+msgstr ""
+
+msgid "Recording duration"
+msgstr ""
+
+msgid "Feel free to close the plugin and continue watching TV, listening to another station, or doing anything else you like."
+msgstr ""
+
+msgid "The recording will automatically stop after the specified duration. You can also stop it manually at any time by opening the plugin again and pressing the Stop button."
+msgstr ""
+
+msgid "Make sure you have enough free disk space in 'Storage path'."
+msgstr ""
+
+msgid "Recording started in the background in INDEFINITE mode."
+msgstr ""
+
+msgid "If you want to stop the recording process at any time, open the plugin again and press the Stop button."
+msgstr ""
+
+msgid "Are you sure you want to stop the current recording?"
+msgstr ""
+
+msgid "for recording, media..."
+msgstr ""
+
+msgid "Recording"
+msgstr ""
+
+msgid "Select recording duration"
+msgstr ""
+
+msgid "Show Start Message Info"
+msgstr ""
+
+msgid "Recording SUCCESSFULLY finished."
+msgstr ""
+
+msgid "An unexpected error occurred."
+msgstr ""
+
+msgid "Error while recording."
+msgstr ""
+
+msgid "Indefinitely"
+msgstr ""
+
+msgid "5 min."
+msgstr ""
+
+msgid "10 min."
+msgstr ""
+
+msgid "20 min."
+msgstr ""
+
+msgid "30 min."
+msgstr ""
+
+msgid "40 min."
+msgstr ""
+
+msgid "50 min."
+msgstr ""
+
+msgid "1 hour"
+msgstr ""
+
+msgid "2 hours"
+msgstr ""
+
+msgid "3 hours"
+msgstr ""
+
+msgid "4 hours"
+msgstr ""
+
+msgid "5 hours"
+msgstr ""
+
+msgid "6 hours"
+msgstr ""
+
+msgid "7 hours"
+msgstr ""
+
+msgid "8 hours"
+msgstr ""
+
+msgid "9 hours"
+msgstr ""
+
+msgid "10 hours"
+msgstr ""
+
+msgid "11 hours"
+msgstr ""
+
+msgid "12 hours"
+msgstr ""
+
+msgid "13 hours"
+msgstr ""
+
+msgid "14 hours"
+msgstr ""
+
+msgid "15 hours"
+msgstr ""
+
+msgid "16 hours"
+msgstr ""
+
+msgid "17 hours"
+msgstr ""
+
+msgid "18 hours"
+msgstr ""
+
+msgid "19 hours"
+msgstr ""
+
+msgid "20 hours"
+msgstr ""
+
+msgid "21 hours"
+msgstr ""
+
+msgid "22 hours"
+msgstr ""
+
+msgid "23 hours"
+msgstr ""
+
+msgid "24 hours"
+msgstr ""
+
+msgid "Starting"
+msgstr ""
+
+msgid "Stopped"
+msgstr ""
+
+msgid "In progress"
+msgstr ""
+
+msgid "Connection to server lost."
+msgstr ""
+
+msgid "Error writing chunk."
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Error status code."
+msgstr ""
+
+msgid "No active recording to stop or ID mismatch."
+msgstr ""
+
+msgid "Unknown Error."
+msgstr ""
+
+msgid "Artist/Song Info"
+msgstr ""
